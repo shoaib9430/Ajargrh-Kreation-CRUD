@@ -58,6 +58,20 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## POST  
+![Screenshot (300)](https://github.com/shoaib9430/Ajargrh-Kreation-CRUD/assets/48713756/c9a5489c-27df-4a86-a0e1-e19f51a8fbf0)
+
+## GET
+![Screenshot (301)](https://github.com/shoaib9430/Ajargrh-Kreation-CRUD/assets/48713756/990b4803-6979-4bb5-bba9-53ec0522ba52)
+
+## PUT
+![Screenshot (303)](https://github.com/shoaib9430/Ajargrh-Kreation-CRUD/assets/48713756/9a25a346-ac6b-4eec-ae92-9e6ea37facf0)
+
+## DELETE
+![Screenshot (304)](https://github.com/shoaib9430/Ajargrh-Kreation-CRUD/assets/48713756/a5907614-ab9f-4ef6-b19c-ff2c4c06f1c5)
+
+
+
 
 ## Support
 
